@@ -1,0 +1,130 @@
+[
+	{
+		"Name": "Brasilien",
+		"Odds": "4,50"
+	},
+	{
+		"Name": "Argentina",
+		"Odds": "6,50"
+	},
+	{
+		"Name": "Frankrig",
+		"Odds": "7,50"
+	},
+	{
+		"Name": "England",
+		"Odds": "9,00"
+	},
+	{
+		"Name": "Spanien",
+		"Odds": "10,00"
+	},
+	{
+		"Name": "Tyskland",
+		"Odds": "11,00"
+	},
+	{
+		"Name": "Holland",
+		"Odds": "14,00"
+	},
+	{
+		"Name": "Portugal",
+		"Odds": "15,00"
+	},
+	{
+		"Name": "Belgien",
+		"Odds": "16,00"
+	},
+	{
+		"Name": "Danmark",
+		"Odds": "35,00"
+	},
+	{
+		"Name": "Kroatien",
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Uruguay",
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Senegal",
+		"Odds": "80,00"
+	},
+	{
+		"Name": "Schweiz",
+		"Odds": "100"
+	},
+	{
+		"Name": "Polen",
+		"Odds": "100"
+	},
+	{
+		"Name": "Serbien",
+		"Odds": "100"
+	},
+	{
+		"Name": "Mexico",
+		"Odds": "125"
+	},
+	{
+		"Name": "USA",
+		"Odds": "150"
+	},
+	{
+		"Name": "Wales",
+		"Odds": "200"
+	},
+	{
+		"Name": "Ecuador",
+		"Odds": "250"
+	},
+	{
+		"Name": "Japan",
+		"Odds": "250"
+	},
+	{
+		"Name": "Canada",
+		"Odds": "250"
+	},
+	{
+		"Name": "Cameroun",
+		"Odds": "250"
+	},
+	{
+		"Name": "Marokko",
+		"Odds": "250"
+	},
+	{
+		"Name": "Qatar",
+		"Odds": "300"
+	},
+	{
+		"Name": "Sydkorea",
+		"Odds": "300"
+	},
+	{
+		"Name": "Ghana",
+		"Odds": "300"
+	},
+	{
+		"Name": "Tunesien",
+		"Odds": "400"
+	},
+	{
+		"Name": "Australien",
+		"Odds": "500"
+	},
+	{
+		"Name": "Iran",
+		"Odds": "500"
+	},
+	{
+		"Name": "Saudi-Arabien",
+		"Odds": "750"
+	},
+	{
+		"Name": "Costa Rica",
+		"Odds": "1000"
+	}
+]

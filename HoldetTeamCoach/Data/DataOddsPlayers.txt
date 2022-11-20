@@ -1,0 +1,779 @@
+[
+	{
+		"Name": "Harry Kane",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "8,50"
+	},
+	{
+		"Name": "Kylian Mbappe",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "9,50"
+	},
+	{
+		"Name": "Karim Benzema",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "12,00"
+	},
+	{
+		"Name": "Lionel Messi",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "12,00"
+	},
+	{
+		"Name": "Neymar Jr.",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "14,00"
+	},
+	{
+		"Name": "Cristiano Ronaldo",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "16,00"
+	},
+	{
+		"Name": "Romelu Lukaku",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "20,00"
+	},
+	{
+		"Name": "Lautaro Martinez",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "25,00"
+	},
+	{
+		"Name": "Memphis Depay",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "25,00"
+	},
+	{
+		"Name": "Diogo Jota",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "30,00"
+	},
+	{
+		"Name": "Raheem Sterling",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "30,00"
+	},
+	{
+		"Name": "Richarlison",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "30,00"
+	},
+	{
+		"Name": "Antoine Griezmann",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "35,00"
+	},
+	{
+		"Name": "Gabriel Jesus",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "35,00"
+	},
+	{
+		"Name": "Vinicius Junior",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "35,00"
+	},
+	{
+		"Name": "Alvaro Morata",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "40,00"
+	},
+	{
+		"Name": "Kai Havertz",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "40,00"
+	},
+	{
+		"Name": "Karim-David Adeyemi",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "40,00"
+	},
+	{
+		"Name": "Paulo Dybala",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "40,00"
+	},
+	{
+		"Name": "Robert Lewandowski",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "40,00"
+	},
+	{
+		"Name": "André Silva",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Bruno Fernandes",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Darwin Nunez",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Donyell Malen",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Dusan Vlahovic",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Ferran Torres",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Kevin De Bruyne",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Luis Suarez",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Phil Foden",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Raphinha",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Serge Gnabry",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Cody Gakpo",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "50,00"
+	},
+	{
+		"Name": "Aleksandar Mitrovic",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "60,00"
+	},
+	{
+		"Name": "Arnaut Danjuma",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "60,00"
+	},
+	{
+		"Name": "Dries Mertens",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "60,00"
+	},
+	{
+		"Name": "Eden Hazard",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "60,00"
+	},
+	{
+		"Name": "Julian Alvarez",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "60,00"
+	},
+	{
+		"Name": "Olivier Giroud",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "60,00"
+	},
+	{
+		"Name": "Roberto Firmino",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "60,00"
+	},
+	{
+		"Name": "Thomas Müller",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "60,00"
+	},
+	{
+		"Name": "Jamal Musiala",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "60,00"
+	},
+	{
+		"Name": "Steven Bergwijn",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "60,00"
+	},
+	{
+		"Name": "Edinson Cavani",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "70,00"
+	},
+	{
+		"Name": "Jack Grealish",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "70,00"
+	},
+	{
+		"Name": "Leroy Sane",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "70,00"
+	},
+	{
+		"Name": "Mikel Oyarzabal",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "70,00"
+	},
+	{
+		"Name": "Ansu Fati",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "80,00"
+	},
+	{
+		"Name": "Youssoufa Moukoko",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Antony",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Breel Embolo",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Marcus Rashford",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Bukayo Saka",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Gareth Bale",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Dusan Tadic",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Heung-Min Son",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Krzysztof Piatek",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Mason Mount",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Philippe Coutinho",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Youssef En-Nesyri",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "100"
+	},
+	{
+		"Name": "Kasper Dolberg",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Andreas Cornelius",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Adam Buksa",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Andrej Kramaric",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Angel di Maria",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Ante Rebic",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Christian Pulisic",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Daniel Olmo",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Ilkay Gündogan",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Jonathan David",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Keita Balde",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Luka Jovic",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Raul Jimenez",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Tammy Abraham",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Christian Eriksen",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "125"
+	},
+	{
+		"Name": "Niclas Füllkrug",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Andre Ayew",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Andreas Skov Olsen",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Ayoub El Kaabi",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Cyle Christopher Larin",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Giovanni Reyna",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Hakim Ziyech",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Hyeon-Woo Jo",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Ivan Perisic",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Jesus Corona",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Jordan Ayew",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Mehdi Taremi",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Sardar Azmoun",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Takumi Minamino",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Timothy Weah",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Vincent Aboubakar",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Yuya Osako",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "150"
+	},
+	{
+		"Name": "Jonas Wind",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "200"
+	},
+	{
+		"Name": "Enner Valencia",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "200"
+	},
+	{
+		"Name": "Haris Seferovic",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "200"
+	},
+	{
+		"Name": "Hirving Lozano",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "200"
+	},
+	{
+		"Name": "Ismaila Sarr",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "200"
+	},
+	{
+		"Name": "Jesper Lindstrøm",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "200"
+	},
+	{
+		"Name": "Kamaldeen Sulemana",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "200"
+	},
+	{
+		"Name": "Karim Ansarifard",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "200"
+	},
+	{
+		"Name": "Mario Gavranovic",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "200"
+	},
+	{
+		"Name": "Wahbi Khazri",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "200"
+	},
+	{
+		"Name": "Xherdan Shaqiri",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "200"
+	},
+	{
+		"Name": "Akram Afif",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "250"
+	},
+	{
+		"Name": "Almoez Ali",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "250"
+	},
+	{
+		"Name": "Brendan Aaronson",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "250"
+	},
+	{
+		"Name": "Firas Al-Buraikan",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "250"
+	},
+	{
+		"Name": "Saleh Al-Shehri",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "250"
+	},
+	{
+		"Name": "Takuma Asano",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "250"
+	},
+	{
+		"Name": "Youssef Msakni",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "250"
+	},
+	{
+		"Name": "Joakim Mæhle",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "500"
+	},
+	{
+		"Name": "Andre på forespørgsel",
+		"Team": null,
+		"Position": null,
+		"Price": 0,
+		"Odds": "1,01"
+	}
+]

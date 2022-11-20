@@ -1,0 +1,5516 @@
+[
+	{
+		"Name": "Emiliano Martinez",
+		"Team": "Argentina",
+		"Position": "Mål",
+		"Price": 5500000
+	},
+	{
+		"Name": "Franco Armani",
+		"Team": "Argentina",
+		"Position": "Mål",
+		"Price": 5000000
+	},
+	{
+		"Name": "Geronimo Rulli",
+		"Team": "Argentina",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Cristian Romero",
+		"Team": "Argentina",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "German Pezzella",
+		"Team": "Argentina",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Gonzalo Montiel",
+		"Team": "Argentina",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Lisandro Martinez",
+		"Team": "Argentina",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Nahuel Molina",
+		"Team": "Argentina",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Nicolas Otamendi",
+		"Team": "Argentina",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Nicolas Tagliafico",
+		"Team": "Argentina",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Alejandro 'Papu' Gomez",
+		"Team": "Argentina",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Alexis Mac Allister",
+		"Team": "Argentina",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Angel Di Maria",
+		"Team": "Argentina",
+		"Position": "Midtbane",
+		"Price": 6500000
+	},
+	{
+		"Name": "Enzo Fernandez",
+		"Team": "Argentina",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Guido Rodriguez",
+		"Team": "Argentina",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Leandro Paredes",
+		"Team": "Argentina",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Rodrigo de Paul",
+		"Team": "Argentina",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Joaquin Correa",
+		"Team": "Argentina",
+		"Position": "Angreb",
+		"Price": 4500000
+	},
+	{
+		"Name": "Julian Alvarez",
+		"Team": "Argentina",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Lautaro Martinez",
+		"Team": "Argentina",
+		"Position": "Angreb",
+		"Price": 7500000
+	},
+	{
+		"Name": "Lionel Messi",
+		"Team": "Argentina",
+		"Position": "Angreb",
+		"Price": 8000000
+	},
+	{
+		"Name": "Paulo Dybala",
+		"Team": "Argentina",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Andrew Redmayne",
+		"Team": "Australien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Mathew Ryan",
+		"Team": "Australien",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Daniel Vukovic",
+		"Team": "Australien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aziz Behich",
+		"Team": "Australien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Milos Degenek",
+		"Team": "Australien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Fran Karacic",
+		"Team": "Australien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Joel King",
+		"Team": "Australien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Bailey Wright",
+		"Team": "Australien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ajdin Hrustic",
+		"Team": "Australien",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Jackson Irvine",
+		"Team": "Australien",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Awer Mabil",
+		"Team": "Australien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aaron Mooy",
+		"Team": "Australien",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Mathew Leckie",
+		"Team": "Australien",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Jamie Maclaren",
+		"Team": "Australien",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Nicolas Gonzalez",
+		"Team": "Argentina",
+		"Position": "Midtbane",
+		"Price": 5500000
+	},
+	{
+		"Name": "Koen Casteels",
+		"Team": "Belgien",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Simon Mignolet",
+		"Team": "Belgien",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Thibaut Courtois",
+		"Team": "Belgien",
+		"Position": "Mål",
+		"Price": 5000000
+	},
+	{
+		"Name": "Arthur Theate",
+		"Team": "Belgien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Jan Vertonghen",
+		"Team": "Belgien",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Thomas Meunier",
+		"Team": "Belgien",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Timothy Castagne",
+		"Team": "Belgien",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Toby Alderweireld",
+		"Team": "Belgien",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Wout Faes",
+		"Team": "Belgien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Zeno Debast",
+		"Team": "Belgien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Amadou Onana",
+		"Team": "Belgien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Axel Witsel",
+		"Team": "Belgien",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Charles De Ketelaere",
+		"Team": "Belgien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Eden Hazard",
+		"Team": "Belgien",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Hans Vanaken",
+		"Team": "Belgien",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Kevin De Bruyne",
+		"Team": "Belgien",
+		"Position": "Midtbane",
+		"Price": 7500000
+	},
+	{
+		"Name": "Leander Dendoncker",
+		"Team": "Belgien",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Leandro Trossard",
+		"Team": "Belgien",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Thorgan Hazard",
+		"Team": "Belgien",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Yannick Ferreira-Carrasco",
+		"Team": "Belgien",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Youri Tielemans",
+		"Team": "Belgien",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Dries Mertens",
+		"Team": "Belgien",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Lois Openda",
+		"Team": "Belgien",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Michy Batshuayi",
+		"Team": "Belgien",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Romelu Lukaku",
+		"Team": "Belgien",
+		"Position": "Angreb",
+		"Price": 7000000
+	},
+	{
+		"Name": "Ethan Horvath",
+		"Team": "USA",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "DeAndre Yedlin",
+		"Team": "USA",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Sean Johnson",
+		"Team": "USA",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Matt Turner",
+		"Team": "USA",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Sergino Dest",
+		"Team": "USA",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Tyler Adams",
+		"Team": "USA",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Joseph Scally",
+		"Team": "USA",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Luca de la Torre",
+		"Team": "USA",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Weston McKennie",
+		"Team": "USA",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Brendan Aaronson",
+		"Team": "USA",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Christian Pulisic",
+		"Team": "USA",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Giovanni Reyna",
+		"Team": "USA",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Josh Sargent",
+		"Team": "USA",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Fernando Muslera",
+		"Team": "Uruguay",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Martin Caceres",
+		"Team": "Uruguay",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Guillermo Varela",
+		"Team": "Uruguay",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Lucas Torreira",
+		"Team": "Uruguay",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Federico Valverde",
+		"Team": "Uruguay",
+		"Position": "Midtbane",
+		"Price": 5500000
+	},
+	{
+		"Name": "Rodrigo Bentancur",
+		"Team": "Uruguay",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Matias Vecino",
+		"Team": "Uruguay",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Giorgian De Arrascaeta",
+		"Team": "Uruguay",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Luis Suarez",
+		"Team": "Uruguay",
+		"Position": "Angreb",
+		"Price": 6000000
+	},
+	{
+		"Name": "Ronald Araujo",
+		"Team": "Uruguay",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Mathias Olivera",
+		"Team": "Uruguay",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Matias Vina",
+		"Team": "Uruguay",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Manuel Ugarte",
+		"Team": "Uruguay",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Darwin Nunez",
+		"Team": "Uruguay",
+		"Position": "Angreb",
+		"Price": 5500000
+	},
+	{
+		"Name": "Facundo Pellistri",
+		"Team": "Uruguay",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Ali Maaloul",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Mohamed Dräger",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Anis Slimane",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Hannibal Mejbri",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ferjani Sassi",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aissa Laidouni",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Naim Sliti",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Issam Jebali",
+		"Team": "Tunesien",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Seung-Gyu Kim",
+		"Team": "Sydkorea",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Chul Hong",
+		"Team": "Sydkorea",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Jin-Su Kim",
+		"Team": "Sydkorea",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Young-Gwon Kim",
+		"Team": "Sydkorea",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Min-jae Kim",
+		"Team": "Sydkorea",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Kyung-Won Kwon",
+		"Team": "Sydkorea",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Hee-Chan Hwang",
+		"Team": "Sydkorea",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Woo-Young Jung",
+		"Team": "Sydkorea",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Jae-Sung Lee",
+		"Team": "Sydkorea",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Kang-In Lee",
+		"Team": "Sydkorea",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Heung-Min Son",
+		"Team": "Sydkorea",
+		"Position": "Midtbane",
+		"Price": 5500000
+	},
+	{
+		"Name": "Seung-Ho Paik",
+		"Team": "Sydkorea",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Chang-Hoon Kwon",
+		"Team": "Sydkorea",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Ui-jo Hwang",
+		"Team": "Sydkorea",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Woo-Yeong Jeong",
+		"Team": "Sydkorea",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Alfred Gomis",
+		"Team": "Senegal",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Edouard Mendy",
+		"Team": "Senegal",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Kalidou Koulibaly",
+		"Team": "Senegal",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Abdou Diallo",
+		"Team": "Senegal",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Pape Abou Cisse",
+		"Team": "Senegal",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Formose Mendy",
+		"Team": "Senegal",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ismail Jakobs",
+		"Team": "Senegal",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Fode Ballo-Toure",
+		"Team": "Senegal",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Pape Alassane Gueye",
+		"Team": "Senegal",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Nampalys Mendy",
+		"Team": "Senegal",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Cheikhou Kouyate",
+		"Team": "Senegal",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Mamadou Loum N'Diaye",
+		"Team": "Senegal",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Pape Sarr",
+		"Team": "Senegal",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Idrissa Gana Gueye",
+		"Team": "Senegal",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Pathe Ciss",
+		"Team": "Senegal",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Iliman Ndiaye",
+		"Team": "Senegal",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Sadio Mane",
+		"Team": "Senegal",
+		"Position": "Angreb",
+		"Price": 6000000
+	},
+	{
+		"Name": "Ismaila Sarr",
+		"Team": "Senegal",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Krepin Diatta",
+		"Team": "Senegal",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Nicolas Jackson",
+		"Team": "Senegal",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Demba Seck",
+		"Team": "Senegal",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Bamba Dieng",
+		"Team": "Senegal",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Mohammed Al-Owais",
+		"Team": "Saudi-Arabien",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Ali Al-Boleahi",
+		"Team": "Saudi-Arabien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Yasser Al-Shahrani",
+		"Team": "Saudi-Arabien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Hattan Bahebri",
+		"Team": "Saudi-Arabien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Mohamed Kanno",
+		"Team": "Saudi-Arabien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Salem Al-Dawsari",
+		"Team": "Saudi-Arabien",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Salman Al-Faraj",
+		"Team": "Saudi-Arabien",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Fahad Al-Muwallad",
+		"Team": "Saudi-Arabien",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Yassine 'Bono' Bounou",
+		"Team": "Marokko",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Munir El Kajoui",
+		"Team": "Marokko",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Ahmed Reda Tagnaouti",
+		"Team": "Marokko",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Noussair Mazraoui",
+		"Team": "Marokko",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Romain Saiss",
+		"Team": "Marokko",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Achraf Hakimi",
+		"Team": "Marokko",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Jawad El Yamiq",
+		"Team": "Marokko",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Sofyan Amrabat",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Hakim Ziyech",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Sofiane Boufal",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Abdelhamid Sabiri",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Amine Harit",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Abde Ezzalzouli",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Zakaria Aboukhlal",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Youssef En-Nesyri",
+		"Team": "Marokko",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Alfredo Talavera",
+		"Team": "Mexico",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Guillermo Ochoa",
+		"Team": "Mexico",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Edson Alvarez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Nestor Araujo",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Jesus Gallardo",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Cesar Montes",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Hector Moreno",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Orbelin Pineda",
+		"Team": "Mexico",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Hector Herrera",
+		"Team": "Mexico",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Erick Gutierrez",
+		"Team": "Mexico",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Andres Guardado",
+		"Team": "Mexico",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Hirving Lozano",
+		"Team": "Mexico",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Raul Jimenez",
+		"Team": "Mexico",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Eiji Kawashima",
+		"Team": "Japan",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Shuichi Gonda",
+		"Team": "Japan",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Maya Yoshida",
+		"Team": "Japan",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Ko Itakura",
+		"Team": "Japan",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yuto Nagatomo",
+		"Team": "Japan",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Yuta Nakayama",
+		"Team": "Japan",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Junya Ito",
+		"Team": "Japan",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Wataru Endo",
+		"Team": "Japan",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Hidemasa Morita",
+		"Team": "Japan",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Takumi Minamino",
+		"Team": "Japan",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Gaku Shibasaki",
+		"Team": "Japan",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Takefusa Kubo",
+		"Team": "Japan",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Kaoru Mitoma",
+		"Team": "Japan",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ritsu Doan",
+		"Team": "Japan",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Takuma Asano",
+		"Team": "Japan",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Ayase Ueda",
+		"Team": "Japan",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Amir Abedzadeh",
+		"Team": "Iran",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Alireza Beiranvand",
+		"Team": "Iran",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Seyed Hossein Hosseini",
+		"Team": "Iran",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Seyed Majid Hosseini",
+		"Team": "Iran",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Morteza Pouraliganji",
+		"Team": "Iran",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Milad Mohammadi",
+		"Team": "Iran",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ehsan Hajsafi",
+		"Team": "Iran",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Sadegh Moharrami",
+		"Team": "Iran",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ramin Rezaeian",
+		"Team": "Iran",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Saeid Ezatolahi",
+		"Team": "Iran",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Saman Ghoddos",
+		"Team": "Iran",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Mehdi Torabi",
+		"Team": "Iran",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Vahid Amiri",
+		"Team": "Iran",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Alireza Jahanbakhsh",
+		"Team": "Iran",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Ali Gholizadeh",
+		"Team": "Iran",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Mehdi Taremi",
+		"Team": "Iran",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Sardar Azmoun",
+		"Team": "Iran",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Karim Ansarifard",
+		"Team": "Iran",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Tariq Lamptey",
+		"Team": "Ghana",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Denis Odoi",
+		"Team": "Ghana",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Abdul Rahman Baba",
+		"Team": "Ghana",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Daniel Amartey",
+		"Team": "Ghana",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Gideon Mensah",
+		"Team": "Ghana",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Mohammed Salisu",
+		"Team": "Ghana",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Joseph Aidoo",
+		"Team": "Ghana",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Thomas Teye Partey",
+		"Team": "Ghana",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Mohammed Kudus",
+		"Team": "Ghana",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Andre Ayew",
+		"Team": "Ghana",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Kamaldeen Sulemana",
+		"Team": "Ghana",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Daniel-Kofi Kyereh",
+		"Team": "Ghana",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Issahaku Abdul Fatawu",
+		"Team": "Ghana",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Jordan Ayew",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Inaki Williams",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Keylor Navas Gamboa",
+		"Team": "Costa Rica",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Francisco Calvo",
+		"Team": "Costa Rica",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Oscar Duarte",
+		"Team": "Costa Rica",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Bryan Oviedo",
+		"Team": "Costa Rica",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Kendall Waston",
+		"Team": "Costa Rica",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yeltsin Tejeda",
+		"Team": "Costa Rica",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Celso Borges",
+		"Team": "Costa Rica",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Bryan Ruiz",
+		"Team": "Costa Rica",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Johan Venegas",
+		"Team": "Costa Rica",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Joel Campbell",
+		"Team": "Costa Rica",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Milan Borjan",
+		"Team": "Canada",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Dayne St. Clair",
+		"Team": "Canada",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Alistair Johnston",
+		"Team": "Canada",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Sam Adekugbe",
+		"Team": "Canada",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Kamal Miller",
+		"Team": "Canada",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Steven Vitoria",
+		"Team": "Canada",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Stephen Eustaquio",
+		"Team": "Canada",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Atiba Hutchinson",
+		"Team": "Canada",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Jonathan Osorio",
+		"Team": "Canada",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Alphonso Davies",
+		"Team": "Canada",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Richie Laryea",
+		"Team": "Canada",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Alisson Becker",
+		"Team": "Brasilien",
+		"Position": "Mål",
+		"Price": 5500000
+	},
+	{
+		"Name": "Ederson Moraes",
+		"Team": "Brasilien",
+		"Position": "Mål",
+		"Price": 5500000
+	},
+	{
+		"Name": "Weverton",
+		"Team": "Brasilien",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Alex Telles",
+		"Team": "Brasilien",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Eder Militão",
+		"Team": "Brasilien",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Thiago Silva",
+		"Team": "Brasilien",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Bremer",
+		"Team": "Brasilien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Marquinhos",
+		"Team": "Brasilien",
+		"Position": "Forsvar",
+		"Price": 5500000
+	},
+	{
+		"Name": "Alex Sandro",
+		"Team": "Brasilien",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Dani Alves",
+		"Team": "Brasilien",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Antony",
+		"Team": "Brasilien",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Bruno Guimaraes",
+		"Team": "Brasilien",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Casemiro",
+		"Team": "Brasilien",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Everton Ribeiro",
+		"Team": "Brasilien",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Fabinho",
+		"Team": "Brasilien",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Lucas Paqueta",
+		"Team": "Brasilien",
+		"Position": "Midtbane",
+		"Price": 6000000
+	},
+	{
+		"Name": "Gabriel Jesus",
+		"Team": "Brasilien",
+		"Position": "Angreb",
+		"Price": 7500000
+	},
+	{
+		"Name": "Gabriel Martinelli",
+		"Team": "Brasilien",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Neymar Jr.",
+		"Team": "Brasilien",
+		"Position": "Angreb",
+		"Price": 9000000
+	},
+	{
+		"Name": "Raphinha",
+		"Team": "Brasilien",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Richarlison",
+		"Team": "Brasilien",
+		"Position": "Angreb",
+		"Price": 6500000
+	},
+	{
+		"Name": "Rodrygo",
+		"Team": "Brasilien",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Vinicius Junior",
+		"Team": "Brasilien",
+		"Position": "Angreb",
+		"Price": 6500000
+	},
+	{
+		"Name": "Pedro dos Santos",
+		"Team": "Brasilien",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Fred",
+		"Team": "Brasilien",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Simon Ngapandouetnbu",
+		"Team": "Cameroun",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Andre Onana",
+		"Team": "Cameroun",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Nicolas N'Koulou",
+		"Team": "Cameroun",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Enzo Ebosse",
+		"Team": "Cameroun",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Pierre Kunde Malong",
+		"Team": "Cameroun",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Martin Hongla",
+		"Team": "Cameroun",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Olivier Ntcham",
+		"Team": "Cameroun",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Bryan Mbeumo",
+		"Team": "Cameroun",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Georges-Kevin N'Koudou",
+		"Team": "Cameroun",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Karl Toko Ekambi",
+		"Team": "Cameroun",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Nicolas Moumi Ngamaleu",
+		"Team": "Cameroun",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Vincent Aboubakar",
+		"Team": "Cameroun",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Jean-Pierre Nsame",
+		"Team": "Cameroun",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Dominik Livakovic",
+		"Team": "Kroatien",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Domagoj Vida",
+		"Team": "Kroatien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Dejan Lovren",
+		"Team": "Kroatien",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Borna Barisic",
+		"Team": "Kroatien",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Josip Juranovic",
+		"Team": "Kroatien",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Josko Gvardiol",
+		"Team": "Kroatien",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Borna Sosa",
+		"Team": "Kroatien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Josip Stanisic",
+		"Team": "Kroatien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Martin Erlic",
+		"Team": "Kroatien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Josip Sutalo",
+		"Team": "Kroatien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Luka Modric",
+		"Team": "Kroatien",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Mateo Kovacic",
+		"Team": "Kroatien",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Marcelo Brozovic",
+		"Team": "Kroatien",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Mario Pasalic",
+		"Team": "Kroatien",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Nikola Vlasic",
+		"Team": "Kroatien",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Lovro Majer",
+		"Team": "Kroatien",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Luka Sucic",
+		"Team": "Kroatien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ivan Perisic",
+		"Team": "Kroatien",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Andrej Kramaric",
+		"Team": "Kroatien",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Bruno Petkovic",
+		"Team": "Kroatien",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Mislav Orsic",
+		"Team": "Kroatien",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ante Budimir",
+		"Team": "Kroatien",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Marko Livaja",
+		"Team": "Kroatien",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Frederik Rønnow",
+		"Team": "Danmark",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Kasper Schmeichel",
+		"Team": "Danmark",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Oliver Christensen",
+		"Team": "Danmark",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Alexander Bah",
+		"Team": "Danmark",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Andreas Christensen",
+		"Team": "Danmark",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Jens Stryger Larsen",
+		"Team": "Danmark",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Joachim Andersen",
+		"Team": "Danmark",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Joakim Mæhle",
+		"Team": "Danmark",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Rasmus Nissen Kristensen",
+		"Team": "Danmark",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Simon Kjær",
+		"Team": "Danmark",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Victor Nelsson",
+		"Team": "Danmark",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Christian Eriksen",
+		"Team": "Danmark",
+		"Position": "Midtbane",
+		"Price": 5500000
+	},
+	{
+		"Name": "Daniel Wass",
+		"Team": "Danmark",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Jesper Lindstrøm",
+		"Team": "Danmark",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Mathias Jensen",
+		"Team": "Danmark",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Mikkel Damsgaard",
+		"Team": "Danmark",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Pierre-Emile Højbjerg",
+		"Team": "Danmark",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Thomas Delaney",
+		"Team": "Danmark",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Andreas Skov Olsen",
+		"Team": "Danmark",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Kasper Dolberg",
+		"Team": "Danmark",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Martin Braithwaite",
+		"Team": "Danmark",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Alexander Dominguez",
+		"Team": "Ecuador",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Pervis Estupinan",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Piero Hincapie",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Robert Arboleda",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Xavier Arreaga",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Angel Mena",
+		"Team": "Ecuador",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Ayrton Preciado",
+		"Team": "Ecuador",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Carlos Gruezo",
+		"Team": "Ecuador",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Mark-Anthony Kaye",
+		"Team": "Canada",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Samuel Piette",
+		"Team": "Canada",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Gonzalo Plata",
+		"Team": "Ecuador",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Jeremy Sarmiento",
+		"Team": "Ecuador",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Jhegson Sebastian Mendez",
+		"Team": "Ecuador",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Moises Caicedo",
+		"Team": "Ecuador",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Romario Ibarra",
+		"Team": "Ecuador",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Enner Valencia",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 4500000
+	},
+	{
+		"Name": "Nick Pope",
+		"Team": "England",
+		"Position": "Mål",
+		"Price": 5500000
+	},
+	{
+		"Name": "Aaron Ramsdale",
+		"Team": "England",
+		"Position": "Mål",
+		"Price": 5000000
+	},
+	{
+		"Name": "Trent Alexander-Arnold",
+		"Team": "England",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Conor Coady",
+		"Team": "England",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Eric Dier",
+		"Team": "England",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Harry Maguire",
+		"Team": "England",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Luke Shaw",
+		"Team": "England",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "John Stones",
+		"Team": "England",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Kieran Trippier",
+		"Team": "England",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Kyle Walker",
+		"Team": "England",
+		"Position": "Forsvar",
+		"Price": 5000000
+	},
+	{
+		"Name": "Jude Bellingham",
+		"Team": "England",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Jordan Henderson",
+		"Team": "England",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Mason Mount",
+		"Team": "England",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Declan Rice",
+		"Team": "England",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Phil Foden",
+		"Team": "England",
+		"Position": "Angreb",
+		"Price": 7500000
+	},
+	{
+		"Name": "Jack Grealish",
+		"Team": "England",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Harry Kane",
+		"Team": "England",
+		"Position": "Angreb",
+		"Price": 9000000
+	},
+	{
+		"Name": "Bukayo Saka",
+		"Team": "England",
+		"Position": "Angreb",
+		"Price": 4500000
+	},
+	{
+		"Name": "Raheem Sterling",
+		"Team": "England",
+		"Position": "Angreb",
+		"Price": 7500000
+	},
+	{
+		"Name": "Tajon Buchanan",
+		"Team": "Canada",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "David 'Junior' Hoilett",
+		"Team": "Canada",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Jonathan David",
+		"Team": "Canada",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Cyle Christopher Larin",
+		"Team": "Canada",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Ike Dominique Ugbo",
+		"Team": "Canada",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Lucas Daniel Cavallini",
+		"Team": "Canada",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Hugo Lloris",
+		"Team": "Frankrig",
+		"Position": "Mål",
+		"Price": 5500000
+	},
+	{
+		"Name": "Alphonse Areola",
+		"Team": "Frankrig",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Presnel Kimpembe",
+		"Team": "Frankrig",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Benjamin Pavard",
+		"Team": "Frankrig",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Dayot Upamecano",
+		"Team": "Frankrig",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Raphaël Varane",
+		"Team": "Frankrig",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Jules Kounde",
+		"Team": "Frankrig",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "William Saliba",
+		"Team": "Frankrig",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Lucas Hernandez",
+		"Team": "Frankrig",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Ibrahima Konate",
+		"Team": "Frankrig",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Eduardo Camavinga",
+		"Team": "Frankrig",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Matteo Guendouzi",
+		"Team": "Frankrig",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Aurelien Tchouameni",
+		"Team": "Frankrig",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Jordan Veretout",
+		"Team": "Frankrig",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Kingsley Coman",
+		"Team": "Frankrig",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Ousmane Dembele",
+		"Team": "Frankrig",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Olivier Giroud",
+		"Team": "Frankrig",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Antoine Griezmann",
+		"Team": "Frankrig",
+		"Position": "Angreb",
+		"Price": 7000000
+	},
+	{
+		"Name": "Kylian Mbappe",
+		"Team": "Frankrig",
+		"Position": "Angreb",
+		"Price": 9000000
+	},
+	{
+		"Name": "Christopher Nkunku",
+		"Team": "Frankrig",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Karim Benzema",
+		"Team": "Frankrig",
+		"Position": "Angreb",
+		"Price": 8000000
+	},
+	{
+		"Name": "Marc-Andre ter Stegen",
+		"Team": "Tyskland",
+		"Position": "Mål",
+		"Price": 5000000
+	},
+	{
+		"Name": "Manuel Neuer",
+		"Team": "Tyskland",
+		"Position": "Mål",
+		"Price": 5000000
+	},
+	{
+		"Name": "Kevin Trapp",
+		"Team": "Tyskland",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Niklas Süle",
+		"Team": "Tyskland",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Antonio Rüdiger",
+		"Team": "Tyskland",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Nico Schlotterbeck",
+		"Team": "Tyskland",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Matthias Ginter",
+		"Team": "Tyskland",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Thilo Kehrer",
+		"Team": "Tyskland",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "David Raum",
+		"Team": "Tyskland",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Armel Bella Kotchap",
+		"Team": "Tyskland",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Jonas Hofmann",
+		"Team": "Tyskland",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Ilkay Gündogan",
+		"Team": "Tyskland",
+		"Position": "Midtbane",
+		"Price": 6000000
+	},
+	{
+		"Name": "Joshua Kimmich",
+		"Team": "Tyskland",
+		"Position": "Midtbane",
+		"Price": 5500000
+	},
+	{
+		"Name": "Jamal Musiala",
+		"Team": "Tyskland",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Leroy Sane",
+		"Team": "Tyskland",
+		"Position": "Angreb",
+		"Price": 7000000
+	},
+	{
+		"Name": "Kai Havertz",
+		"Team": "Tyskland",
+		"Position": "Angreb",
+		"Price": 6000000
+	},
+	{
+		"Name": "Thomas Müller",
+		"Team": "Tyskland",
+		"Position": "Angreb",
+		"Price": 6500000
+	},
+	{
+		"Name": "Serge Gnabry",
+		"Team": "Tyskland",
+		"Position": "Angreb",
+		"Price": 7000000
+	},
+	{
+		"Name": "Remko Pasveer",
+		"Team": "Holland",
+		"Position": "Mål",
+		"Price": 5500000
+	},
+	{
+		"Name": "Tyrell Malacia",
+		"Team": "Holland",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Nathan Ake",
+		"Team": "Holland",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Daley Blind",
+		"Team": "Holland",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Virgil van Dijk",
+		"Team": "Holland",
+		"Position": "Forsvar",
+		"Price": 5000000
+	},
+	{
+		"Name": "Denzel Dumfries",
+		"Team": "Holland",
+		"Position": "Forsvar",
+		"Price": 5500000
+	},
+	{
+		"Name": "Matthijs de Ligt",
+		"Team": "Holland",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Jurrien Timber",
+		"Team": "Holland",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Stefan de Vrij",
+		"Team": "Holland",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Frenkie de Jong",
+		"Team": "Holland",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Davy Klaassen",
+		"Team": "Holland",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Teun Koopmeiners",
+		"Team": "Holland",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Marten de Roon",
+		"Team": "Holland",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Kenneth Taylor",
+		"Team": "Holland",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Steven Berghuis",
+		"Team": "Holland",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Steven Bergwijn",
+		"Team": "Holland",
+		"Position": "Angreb",
+		"Price": 4500000
+	},
+	{
+		"Name": "Memphis Depay",
+		"Team": "Holland",
+		"Position": "Angreb",
+		"Price": 8000000
+	},
+	{
+		"Name": "Cody Gakpo",
+		"Team": "Holland",
+		"Position": "Angreb",
+		"Price": 4500000
+	},
+	{
+		"Name": "Vincent Janssen",
+		"Team": "Holland",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Wout Weghorst",
+		"Team": "Holland",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Bartlomiej Dragowski",
+		"Team": "Polen",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Lukasz Skorupski",
+		"Team": "Polen",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Wojciech Szczesny",
+		"Team": "Polen",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Jan Bednarek",
+		"Team": "Polen",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Bartosz Bereszynski",
+		"Team": "Polen",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Kamil Glik",
+		"Team": "Polen",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Robert Gumny",
+		"Team": "Polen",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jakub Kiwior",
+		"Team": "Polen",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Mateusz Wieteska",
+		"Team": "Polen",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Przemyslaw Frankowski",
+		"Team": "Polen",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Kamil Grosicki",
+		"Team": "Polen",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Jakub Kaminski",
+		"Team": "Polen",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Grzegorz Krychowiak",
+		"Team": "Polen",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Sebastian Szymanski",
+		"Team": "Polen",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Nicola Zalewski",
+		"Team": "Polen",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Piotr Zielinski",
+		"Team": "Polen",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Szymon Zurkowski",
+		"Team": "Polen",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Robert Lewandowski",
+		"Team": "Polen",
+		"Position": "Angreb",
+		"Price": 6500000
+	},
+	{
+		"Name": "Arkadiusz Milik",
+		"Team": "Polen",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Krzysztof Piatek",
+		"Team": "Polen",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Karol Swiderski",
+		"Team": "Polen",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Rui Patricio",
+		"Team": "Portugal",
+		"Position": "Mål",
+		"Price": 5000000
+	},
+	{
+		"Name": "Diogo Costa",
+		"Team": "Portugal",
+		"Position": "Mål",
+		"Price": 5000000
+	},
+	{
+		"Name": "Jose Sa",
+		"Team": "Portugal",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Pepe",
+		"Team": "Portugal",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Danilo Pereira",
+		"Team": "Portugal",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Raphael Guerreiro",
+		"Team": "Portugal",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Ruben Dias",
+		"Team": "Portugal",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Joao Cancelo",
+		"Team": "Portugal",
+		"Position": "Forsvar",
+		"Price": 5500000
+	},
+	{
+		"Name": "Nuno Mendes",
+		"Team": "Portugal",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Diogo Dalot",
+		"Team": "Portugal",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "William Carvalho",
+		"Team": "Portugal",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Joao Mario",
+		"Team": "Portugal",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Bruno Fernandes",
+		"Team": "Portugal",
+		"Position": "Midtbane",
+		"Price": 7000000
+	},
+	{
+		"Name": "Ruben Neves",
+		"Team": "Portugal",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Joao Palhinha",
+		"Team": "Portugal",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Matheus Nunes",
+		"Team": "Portugal",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Otavio",
+		"Team": "Portugal",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Vitinha",
+		"Team": "Portugal",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Cristiano Ronaldo",
+		"Team": "Portugal",
+		"Position": "Angreb",
+		"Price": 7500000
+	},
+	{
+		"Name": "Bernardo Silva",
+		"Team": "Portugal",
+		"Position": "Angreb",
+		"Price": 6000000
+	},
+	{
+		"Name": "André Silva",
+		"Team": "Portugal",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Joao Felix",
+		"Team": "Portugal",
+		"Position": "Angreb",
+		"Price": 4500000
+	},
+	{
+		"Name": "Goncalo Ramos",
+		"Team": "Portugal",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Rafael Leão",
+		"Team": "Portugal",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Ricardo Horta",
+		"Team": "Portugal",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Vanja Milinkovic-Savic",
+		"Team": "Serbien",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Marko Dmitrovic",
+		"Team": "Serbien",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Predrag Rajkovic",
+		"Team": "Serbien",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Srdjan Babic",
+		"Team": "Serbien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Stefan Mitrovic",
+		"Team": "Serbien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Milos Veljkovic",
+		"Team": "Serbien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Strahinja Pavlovic",
+		"Team": "Serbien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Filip Mladenovic",
+		"Team": "Serbien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Nikola Milenkovic",
+		"Team": "Serbien",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Darko Lazovic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Sasa Lukic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Uros Racic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Nemanja Maksimovic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Nemanja Gudelj",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Sergej Milinkovic-Savic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Ivan Ilic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Filip Kostic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Nemanja Radonjic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Andrija Zivkovic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Filip Djuricic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Dusan Tadic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Marko Grujic",
+		"Team": "Serbien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aleksandar Mitrovic",
+		"Team": "Serbien",
+		"Position": "Angreb",
+		"Price": 5500000
+	},
+	{
+		"Name": "Dusan Vlahovic",
+		"Team": "Serbien",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Luka Jovic",
+		"Team": "Serbien",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "David Raya",
+		"Team": "Spanien",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Robert Sanchez",
+		"Team": "Spanien",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Unai Simon",
+		"Team": "Spanien",
+		"Position": "Mål",
+		"Price": 5000000
+	},
+	{
+		"Name": "Cesar Azpilicueta",
+		"Team": "Spanien",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Daniel Carvajal",
+		"Team": "Spanien",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Eric Garcia",
+		"Team": "Spanien",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Jordi Alba",
+		"Team": "Spanien",
+		"Position": "Forsvar",
+		"Price": 5000000
+	},
+	{
+		"Name": "Jose Luis Gaya",
+		"Team": "Spanien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Pau Torres",
+		"Team": "Spanien",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Carlos Soler",
+		"Team": "Spanien",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Koke",
+		"Team": "Spanien",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Marcos Llorente",
+		"Team": "Spanien",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Pablo Gavi",
+		"Team": "Spanien",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Pedri",
+		"Team": "Spanien",
+		"Position": "Midtbane",
+		"Price": 5000000
+	},
+	{
+		"Name": "Hugo Guillamon",
+		"Team": "Spanien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Rodri Hernandez",
+		"Team": "Spanien",
+		"Position": "Midtbane",
+		"Price": 5500000
+	},
+	{
+		"Name": "Sergio Busquets",
+		"Team": "Spanien",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Marco Asensio",
+		"Team": "Spanien",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Alvaro Morata",
+		"Team": "Spanien",
+		"Position": "Angreb",
+		"Price": 5500000
+	},
+	{
+		"Name": "Ferran Torres",
+		"Team": "Spanien",
+		"Position": "Angreb",
+		"Price": 5500000
+	},
+	{
+		"Name": "Nico Williams",
+		"Team": "Spanien",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Pablo Sarabia",
+		"Team": "Spanien",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Yeremi Pino",
+		"Team": "Spanien",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yann Sommer",
+		"Team": "Schweiz",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Manuel Akanji",
+		"Team": "Schweiz",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Eray Cömert",
+		"Team": "Schweiz",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Nico Elvedi",
+		"Team": "Schweiz",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Ricardo Rodriguez",
+		"Team": "Schweiz",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Fabian Schär",
+		"Team": "Schweiz",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Silvan Widmer",
+		"Team": "Schweiz",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Michel Aebischer",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Fabian Frei",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Remo Freuler",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Xherdan Shaqiri",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Djibril Sow",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Renato Steffen",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Granit Xhaka",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Denis Zakaria",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Breel Embolo",
+		"Team": "Schweiz",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Haris Seferovic",
+		"Team": "Schweiz",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Ruben Vargas",
+		"Team": "Schweiz",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Danny Ward",
+		"Team": "Wales",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Wayne Hennessey",
+		"Team": "Wales",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Ethan Ampadu",
+		"Team": "Wales",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ben Cabango",
+		"Team": "Wales",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Joe Rodon",
+		"Team": "Wales",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Chris Mepham",
+		"Team": "Wales",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Neco Williams",
+		"Team": "Wales",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Connor Roberts",
+		"Team": "Wales",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Chris Gunter",
+		"Team": "Wales",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ben T. Davies",
+		"Team": "Wales",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Matthew Smith",
+		"Team": "Wales",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Dylan Levitt",
+		"Team": "Wales",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Joe Morrell",
+		"Team": "Wales",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Rubin Colwill",
+		"Team": "Wales",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jonathan 'Jonny' Williams",
+		"Team": "Wales",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Daniel Owen James",
+		"Team": "Wales",
+		"Position": "Midtbane",
+		"Price": 4000000
+	},
+	{
+		"Name": "Joe Allen",
+		"Team": "Wales",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Gareth Bale",
+		"Team": "Wales",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Brennan Johnson",
+		"Team": "Wales",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Kieffer Moore",
+		"Team": "Wales",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Youssouf Fofana",
+		"Team": "Frankrig",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Saad Al Sheeb",
+		"Team": "Qatar",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Yousef Hassan Ali",
+		"Team": "Qatar",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Meshaal Barsham",
+		"Team": "Qatar",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Abdelkarim Hassan Fadlalla",
+		"Team": "Qatar",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Bassam Hisham Al-Rawi",
+		"Team": "Qatar",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Boualem Khoukhi",
+		"Team": "Qatar",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Homam Ahmed",
+		"Team": "Qatar",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Musab Khoder",
+		"Team": "Qatar",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Pedro 'Ro-Ro' Miguel Correia",
+		"Team": "Qatar",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Tarek Salman",
+		"Team": "Qatar",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Abdulaziz Hatim Mohammed",
+		"Team": "Qatar",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Karim Boudiaf",
+		"Team": "Qatar",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Ahmed Alaaeldin Abdelmotaal",
+		"Team": "Qatar",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Akram Afif",
+		"Team": "Qatar",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Almoez Ali",
+		"Team": "Qatar",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Hassan Al-Haydos",
+		"Team": "Qatar",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Kevin Alvarez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Carlos Martinez Castro",
+		"Team": "Costa Rica",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Nathaniel Atkinson",
+		"Team": "Australien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Thomas Jok Deng",
+		"Team": "Australien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Cameron Devlin",
+		"Team": "Australien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Keanu Baccus",
+		"Team": "Australien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Riley McGree",
+		"Team": "Australien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Garang Kuol",
+		"Team": "Australien",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jason Cummings",
+		"Team": "Australien",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Martin Boyle",
+		"Team": "Australien",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Mitchell Duke",
+		"Team": "Australien",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Devis Epassy",
+		"Team": "Cameroun",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Christopher Wooh",
+		"Team": "Cameroun",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Collins Fai",
+		"Team": "Cameroun",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Jean-Charles Castelletto",
+		"Team": "Cameroun",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Nouhou Tolo",
+		"Team": "Cameroun",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Olivier Mbaizo",
+		"Team": "Cameroun",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Gaël Ondoua",
+		"Team": "Cameroun",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Samuel Oum Gouet",
+		"Team": "Cameroun",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Derek Cornelius",
+		"Team": "Canada",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Joel Waterman",
+		"Team": "Canada",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ismael Kone",
+		"Team": "Canada",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Liam Millar",
+		"Team": "Canada",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Liam Fraser",
+		"Team": "Canada",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Juan Pablo Vargas",
+		"Team": "Costa Rica",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Keysher Fuller",
+		"Team": "Costa Rica",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Brandon Aguilera",
+		"Team": "Costa Rica",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Daniel Chacon",
+		"Team": "Costa Rica",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Douglas Lopez",
+		"Team": "Costa Rica",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Gerson Torres",
+		"Team": "Costa Rica",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Jewison Bennette",
+		"Team": "Costa Rica",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Anthony Contreras",
+		"Team": "Costa Rica",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Anthony Hernandez",
+		"Team": "Costa Rica",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ivica Ivusic",
+		"Team": "Kroatien",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Hernan Galindez",
+		"Team": "Ecuador",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Moises Ramirez",
+		"Team": "Ecuador",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Angelo Preciado",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Diego Palacios",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Felix 'Feliz' Torres",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Jackson Porozo",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Alan Franco",
+		"Team": "Ecuador",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Jose Cifuentes",
+		"Team": "Ecuador",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Djorkaeff Reasco",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Michael Estrada",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Abdul Nurudeen",
+		"Team": "Ghana",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Alexander Djiku",
+		"Team": "Ghana",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Alidu Seidu",
+		"Team": "Ghana",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Daniel Afriyie",
+		"Team": "Ghana",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Elisha Owusu",
+		"Team": "Ghana",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Osman Bukari",
+		"Team": "Ghana",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Antoine Semenyo",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Hossein Kanaani",
+		"Team": "Iran",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Shoja Khalilzadeh",
+		"Team": "Iran",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ahmad Nourollahi",
+		"Team": "Iran",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Daniel Schmidt",
+		"Team": "Japan",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Miki Yamane",
+		"Team": "Japan",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Shogo Taniguchi",
+		"Team": "Japan",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ao Tanaka",
+		"Team": "Japan",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Rodolfo Cota",
+		"Team": "Mexico",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Gerardo Arteaga",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Alexis Vega",
+		"Team": "Mexico",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Luis Chavez",
+		"Team": "Mexico",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Luis Romo",
+		"Team": "Mexico",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Roberto Alvarado",
+		"Team": "Mexico",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Uriel Antuna",
+		"Team": "Mexico",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Henry Martin",
+		"Team": "Mexico",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Rogelio Funes Mori",
+		"Team": "Mexico",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Achraf Dari",
+		"Team": "Marokko",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Yahia Attiat-Allah",
+		"Team": "Marokko",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Azzedine Ounahi",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ilias Chair",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Selim Amallah",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Yahya Jabrane",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Michal Skoras",
+		"Team": "Polen",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jassem Gaber",
+		"Team": "Qatar",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ali Assadalla",
+		"Team": "Qatar",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ismaeel Mohammed",
+		"Team": "Qatar",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Khalid Muneer",
+		"Team": "Qatar",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mohammed Waad",
+		"Team": "Qatar",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Mostafa Tarek",
+		"Team": "Qatar",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mohammed Muntari",
+		"Team": "Qatar",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Naif Al-Hadhrami",
+		"Team": "Qatar",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mohammed Al-Rubaie Al-Yami",
+		"Team": "Saudi-Arabien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Abdulelah Al-Amri",
+		"Team": "Saudi-Arabien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Abdullah Madu",
+		"Team": "Saudi-Arabien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Hassan Al Tambakti",
+		"Team": "Saudi-Arabien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Saud Abdulhamid",
+		"Team": "Saudi-Arabien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Sultan Al-Ghanam",
+		"Team": "Saudi-Arabien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ali Al-Hassan",
+		"Team": "Saudi-Arabien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Nasser Al-Dawsari",
+		"Team": "Saudi-Arabien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Riyadh Sharahili",
+		"Team": "Saudi-Arabien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Sami Al-Najei",
+		"Team": "Saudi-Arabien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Firas Al-Buraikan",
+		"Team": "Saudi-Arabien",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Haitham Asiri",
+		"Team": "Saudi-Arabien",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Seny Timothy Dieng",
+		"Team": "Senegal",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Moustapha Name",
+		"Team": "Senegal",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Strahinja Erakovic",
+		"Team": "Serbien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Bum-Keun Song",
+		"Team": "Sydkorea",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Jong-Gyu Yoon",
+		"Team": "Sydkorea",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Moon-Hwan Kim",
+		"Team": "Sydkorea",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Tae-Hwan Kim",
+		"Team": "Sydkorea",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yu-Min Cho",
+		"Team": "Sydkorea",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "In-Beom Hwang",
+		"Team": "Sydkorea",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Jun-Ho Son",
+		"Team": "Sydkorea",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Sang-Ho Na",
+		"Team": "Sydkorea",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Gue-Sung Cho",
+		"Team": "Sydkorea",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ardon Jashari",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Aymen Dahmen",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Bechir Ben Said",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Ali Abdi",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Bilel Ifa",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Montassar Talbi",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Nader Ghandri",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mohamed Ali Ben Romdhane",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Seifeddine Jaziri",
+		"Team": "Tunesien",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Taha Yassine Khenissi",
+		"Team": "Tunesien",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Youssef Msakni",
+		"Team": "Tunesien",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Sebastian Sosa",
+		"Team": "Uruguay",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Sergio Rochet",
+		"Team": "Uruguay",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Agustin Canobbio",
+		"Team": "Uruguay",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Nicolas de la Cruz",
+		"Team": "Uruguay",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Walker Zimmerman",
+		"Team": "USA",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aaron Long",
+		"Team": "USA",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kellyn Acosta",
+		"Team": "USA",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Jesus Ferreira",
+		"Team": "USA",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Jordan Morris",
+		"Team": "USA",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Sorba Thomas",
+		"Team": "Wales",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mark Harris",
+		"Team": "Wales",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Yussuf Poulsen",
+		"Team": "Danmark",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Hiroki Sakai",
+		"Team": "Japan",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Takehiro Tomiyasu",
+		"Team": "Japan",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Daichi Kamada",
+		"Team": "Japan",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Carlos Rodriguez",
+		"Team": "Mexico",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Aaron Ramsey",
+		"Team": "Wales",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Harry Wilson",
+		"Team": "Wales",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Antonee Robinson",
+		"Team": "USA",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Yunus Musah",
+		"Team": "USA",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Timothy Weah",
+		"Team": "USA",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Diego Godin",
+		"Team": "Uruguay",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Jose Gimenez",
+		"Team": "Uruguay",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Theo Hernandez",
+		"Team": "Frankrig",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Andreas Cornelius",
+		"Team": "Danmark",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Aymeric Laporte",
+		"Team": "Spanien",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Wahbi Khazri",
+		"Team": "Tunesien",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Ellyes Skhiri",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Cameron Carter-Vickers",
+		"Team": "USA",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Christian Nørgaard",
+		"Team": "Danmark",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "André-Frank Zambo Anguissa",
+		"Team": "Cameroun",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Eric Maxim Choupo-Moting",
+		"Team": "Cameroun",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Christian Bassogog",
+		"Team": "Cameroun",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Jordan Pickford",
+		"Team": "England",
+		"Position": "Mål",
+		"Price": 5000000
+	},
+	{
+		"Name": "Justin Bijlow",
+		"Team": "Holland",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Ansu Fati",
+		"Team": "Spanien",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Edinson Cavani",
+		"Team": "Uruguay",
+		"Position": "Angreb",
+		"Price": 5000000
+	},
+	{
+		"Name": "Jonas Wind",
+		"Team": "Danmark",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Harry Souttar",
+		"Team": "Australien",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Kye Rowles",
+		"Team": "Australien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Craig Goodwin",
+		"Team": "Australien",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Esteban Alvarado",
+		"Team": "Costa Rica",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Patrick Sequeira",
+		"Team": "Costa Rica",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ronald Matarrita",
+		"Team": "Costa Rica",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Youstin Salas",
+		"Team": "Costa Rica",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Roan Wilson",
+		"Team": "Costa Rica",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Alvaro Zamora",
+		"Team": "Costa Rica",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Hiroki Ito",
+		"Team": "Japan",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yuki Soma",
+		"Team": "Japan",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Daizen Maeda",
+		"Team": "Japan",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Danilo",
+		"Team": "Brasilien",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Boulaye Dia",
+		"Team": "Senegal",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Gregor Kobel",
+		"Team": "Schweiz",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Philipp Köhn",
+		"Team": "Schweiz",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Jonas Omlin",
+		"Team": "Schweiz",
+		"Position": "Mål",
+		"Price": 3500000
+	},
+	{
+		"Name": "Fabian Rieder",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Edimilson Fernandes",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Christian Fassnacht",
+		"Team": "Schweiz",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Noah Okafor",
+		"Team": "Schweiz",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Ivo Grbic",
+		"Team": "Kroatien",
+		"Position": "Mål",
+		"Price": 4000000
+	},
+	{
+		"Name": "Kristijan Jakic",
+		"Team": "Kroatien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Shaq Moore",
+		"Team": "USA",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Tim Ream",
+		"Team": "USA",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Cristian Roldan",
+		"Team": "USA",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Haji Wright",
+		"Team": "USA",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Adam Davies",
+		"Team": "Wales",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Tom Lockyer",
+		"Team": "Wales",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Steve Mandanda",
+		"Team": "Frankrig",
+		"Position": "Mål",
+		"Price": 5000000
+	},
+	{
+		"Name": "Adrien Rabiot",
+		"Team": "Frankrig",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Souaibou Marou",
+		"Team": "Cameroun",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jerome Ngom Mbekeli",
+		"Team": "Cameroun",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jeremy Doku",
+		"Team": "Belgien",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Nayef Aguerd",
+		"Team": "Marokko",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Badr Benoun",
+		"Team": "Marokko",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Bilal El Khannouss",
+		"Team": "Marokko",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Abderrazak Hamdallah",
+		"Team": "Marokko",
+		"Position": "Angreb",
+		"Price": 2500000
+	},
+	{
+		"Name": "Walid Cheddira",
+		"Team": "Marokko",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Christian Günter",
+		"Team": "Tyskland",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Lukas Klostermann",
+		"Team": "Tyskland",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Karim-David Adeyemi",
+		"Team": "Tyskland",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Julian Brandt",
+		"Team": "Tyskland",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Niclas Füllkrug",
+		"Team": "Tyskland",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Leon Goretzka",
+		"Team": "Tyskland",
+		"Position": "Midtbane",
+		"Price": 4500000
+	},
+	{
+		"Name": "Mario Götze",
+		"Team": "Tyskland",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Youssoufa Moukoko",
+		"Team": "Tyskland",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Ben White",
+		"Team": "England",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Conor Gallagher",
+		"Team": "England",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Kalvin Phillips",
+		"Team": "England",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "James Maddison",
+		"Team": "England",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Marcus Rashford",
+		"Team": "England",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Callum Wilson",
+		"Team": "England",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Matthew Cash",
+		"Team": "Polen",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Artur Jedrzejczyk",
+		"Team": "Polen",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Krystian Bielik",
+		"Team": "Polen",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Damian Szymanski",
+		"Team": "Polen",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Antonio Silva",
+		"Team": "Portugal",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Sebastian Coates",
+		"Team": "Uruguay",
+		"Position": "Forsvar",
+		"Price": 3000000
+	},
+	{
+		"Name": "Jose Luis Rodriguez",
+		"Team": "Uruguay",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Maximiliano Gomez",
+		"Team": "Uruguay",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Facundo Torres",
+		"Team": "Uruguay",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Andries Noppert",
+		"Team": "Holland",
+		"Position": "Mål",
+		"Price": 4500000
+	},
+	{
+		"Name": "Jeremie Frimpong",
+		"Team": "Holland",
+		"Position": "Forsvar",
+		"Price": 3500000
+	},
+	{
+		"Name": "Noa Lang",
+		"Team": "Holland",
+		"Position": "Midtbane",
+		"Price": 3000000
+	},
+	{
+		"Name": "Xavi Simons",
+		"Team": "Holland",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Luuk de Jong",
+		"Team": "Holland",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "Daniel Olmo",
+		"Team": "Spanien",
+		"Position": "Angreb",
+		"Price": 4500000
+	},
+	{
+		"Name": "Famara Diedhiou",
+		"Team": "Senegal",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Marcos Acuna",
+		"Team": "Argentina",
+		"Position": "Forsvar",
+		"Price": 4000000
+	},
+	{
+		"Name": "Juan Foyth",
+		"Team": "Argentina",
+		"Position": "Forsvar",
+		"Price": 4500000
+	},
+	{
+		"Name": "Exequiel Palacios",
+		"Team": "Argentina",
+		"Position": "Midtbane",
+		"Price": 3500000
+	},
+	{
+		"Name": "Hyeon-Woo Jo",
+		"Team": "Sydkorea",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Min-Kyu Song",
+		"Team": "Sydkorea",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Assim Madibo",
+		"Team": "Qatar",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Salem Al-Hajri",
+		"Team": "Qatar",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Nawaf Al-Aqidi",
+		"Team": "Saudi-Arabien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Abdullah Otayf",
+		"Team": "Saudi-Arabien",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Abdulelah Al-Malki",
+		"Team": "Saudi-Arabien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mohammed Al-Burayk",
+		"Team": "Saudi-Arabien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Saleh Al-Shehri",
+		"Team": "Saudi-Arabien",
+		"Position": "Angreb",
+		"Price": 3500000
+	},
+	{
+		"Name": "Abdulrahman Al-Obood",
+		"Team": "Saudi-Arabien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Robert Skov",
+		"Team": "Danmark",
+		"Position": "Angreb",
+		"Price": 3000000
+	},
+	{
+		"Name": "James Pantemis",
+		"Team": "Canada",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "David Wotherspoon",
+		"Team": "Canada",
+		"Position": "Midtbane",
+		"Price": 2500000
+	},
+	{
+		"Name": "Marcus Thuram",
+		"Team": "Frankrig",
+		"Position": "Angreb",
+		"Price": 4000000
+	},
+	{
+		"Name": "Payam Niazmand",
+		"Team": "Iran",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Roozbeh Cheshmi",
+		"Team": "Iran",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Abolfazl Jalali",
+		"Team": "Iran",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ali Karimi",
+		"Team": "Iran",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Lawrence Ati Zigi",
+		"Team": "Ghana",
+		"Position": "Mål",
+		"Price": 3000000
+	},
+	{
+		"Name": "Ibrahim Danlad",
+		"Team": "Ghana",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Salis Abdul Samed",
+		"Team": "Ghana",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kamal Sowah",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mouez Hassen",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aymen 'Balbouli' Mathlouthi",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Wajdi Kechrida",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Dylan Bronn",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yassine Meriah",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ghaylene Chaalali",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "William Pacho",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kevin Rodriguez",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jorge Sanchez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Johan Vasquez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kamal Sowah",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mouez Hassen",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aymen 'Balbouli' Mathlouthi",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Wajdi Kechrida",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Dylan Bronn",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yassine Meriah",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ghaylene Chaalali",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "William Pacho",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kevin Rodriguez",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jorge Sanchez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Johan Vasquez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kamal Sowah",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mouez Hassen",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aymen 'Balbouli' Mathlouthi",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Wajdi Kechrida",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Dylan Bronn",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yassine Meriah",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ghaylene Chaalali",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "William Pacho",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kevin Rodriguez",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jorge Sanchez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Johan Vasquez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kamal Sowah",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mouez Hassen",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aymen 'Balbouli' Mathlouthi",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Wajdi Kechrida",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Dylan Bronn",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yassine Meriah",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ghaylene Chaalali",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "William Pacho",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kevin Rodriguez",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jorge Sanchez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Johan Vasquez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kamal Sowah",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mouez Hassen",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aymen 'Balbouli' Mathlouthi",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Wajdi Kechrida",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Dylan Bronn",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yassine Meriah",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ghaylene Chaalali",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "William Pacho",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kevin Rodriguez",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jorge Sanchez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Johan Vasquez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kamal Sowah",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mouez Hassen",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aymen 'Balbouli' Mathlouthi",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Wajdi Kechrida",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Dylan Bronn",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yassine Meriah",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ghaylene Chaalali",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "William Pacho",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kevin Rodriguez",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jorge Sanchez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Johan Vasquez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kamal Sowah",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mouez Hassen",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aymen 'Balbouli' Mathlouthi",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Wajdi Kechrida",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Dylan Bronn",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yassine Meriah",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ghaylene Chaalali",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "William Pacho",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kevin Rodriguez",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jorge Sanchez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Johan Vasquez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kamal Sowah",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mouez Hassen",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aymen 'Balbouli' Mathlouthi",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Wajdi Kechrida",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Dylan Bronn",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yassine Meriah",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ghaylene Chaalali",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "William Pacho",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kevin Rodriguez",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jorge Sanchez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Johan Vasquez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kamal Sowah",
+		"Team": "Ghana",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Mouez Hassen",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Aymen 'Balbouli' Mathlouthi",
+		"Team": "Tunesien",
+		"Position": "Mål",
+		"Price": 2500000
+	},
+	{
+		"Name": "Wajdi Kechrida",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Dylan Bronn",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2500000
+	},
+	{
+		"Name": "Yassine Meriah",
+		"Team": "Tunesien",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Ghaylene Chaalali",
+		"Team": "Tunesien",
+		"Position": "Midtbane",
+		"Price": 2000000
+	},
+	{
+		"Name": "William Pacho",
+		"Team": "Ecuador",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Kevin Rodriguez",
+		"Team": "Ecuador",
+		"Position": "Angreb",
+		"Price": 2000000
+	},
+	{
+		"Name": "Jorge Sanchez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	},
+	{
+		"Name": "Johan Vasquez",
+		"Team": "Mexico",
+		"Position": "Forsvar",
+		"Price": 2000000
+	}
+]

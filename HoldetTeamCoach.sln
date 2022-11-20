@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoldetTeamCoach", "HoldetTeamCoach\HoldetTeamCoach.csproj", "{CEB61EFE-0A78-47E8-A0C5-6586EC15F5B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB61EFE-0A78-47E8-A0C5-6586EC15F5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB61EFE-0A78-47E8-A0C5-6586EC15F5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB61EFE-0A78-47E8-A0C5-6586EC15F5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB61EFE-0A78-47E8-A0C5-6586EC15F5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0118748-368D-42DE-9BD5-C8D5813E32CF}
+	EndGlobalSection
+EndGlobal
