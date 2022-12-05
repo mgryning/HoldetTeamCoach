@@ -10,19 +10,19 @@ using static TTT.MCTS;
 
 namespace TTT
 {
-    [DebuggerDisplay("Children: {Children.Count}, Sim: {TimesSimulated}, Won: {TimesWon}")]
+    [DebuggerDisplay("Children: {Children.Count}, Visits: {Visits}, Score: {Score}")]
     public class Node
     {
         public List<Node> Children { get; set; } = new List<Node>();
         public Node? Parent { get; set; } = null;
         public int[] State { get; set; } = new int[9];
         public Player Player { get; set; }
-        public double TimesSimulated { get; set; } = 0;
+        public double Visits { get; set; } = 0;
         public double TimesWon { get; set; } = 0;
-        public bool Simulated { get; set; } = false;
-        public bool EndState { get; set; } = false;
+        public int Score { get; set; } = 0;
         public bool NoFurtherMovesPossible { get; set; } = false;
         public int Depth { get; set; } = 0;
+        public double UTC { get; set; } = 0.0;
 
         /// <summary>
         /// Converts the node to a bitmap
@@ -54,7 +54,7 @@ namespace TTT
 
                     g.DrawRectangle(new Pen(new SolidBrush(Color.Black)), new Rectangle(tree[i].Depth * 50, i * 50, 50, 50));
 
-                    g.DrawString($"{tree[i].TimesSimulated}/{tree[i].TimesWon} - {(tree[i].NoFurtherMovesPossible ? "S" : "")}", new Font("Verdana",10.0f), new SolidBrush(Color.Black), new PointF(tree[i].Depth * 50, i * 50));
+                    g.DrawString($"{tree[i].Visits}/{tree[i].TimesWon} - {(tree[i].NoFurtherMovesPossible ? "S" : "")}", new Font("Verdana",10.0f), new SolidBrush(Color.Black), new PointF(tree[i].Depth * 50, i * 50));
                 }
             }
 

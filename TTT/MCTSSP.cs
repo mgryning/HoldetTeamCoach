@@ -7,10 +7,10 @@ using static TTT.Game;
 
 namespace TTT
 {
-    public class MCTS
+    public class MCTSSP
     {
         readonly Random random = new Random(DateTime.Now.Millisecond);
-        public Game game = new Game();
+        public GameMaxBag GameMaxBag = new GameMaxBag();
 
         public Node DoSimulation(Node root, int epochNum)
         {
@@ -26,71 +26,11 @@ namespace TTT
                 }
 
                 Node newLeaf = ExpandLeafNodeWithMoves(leaf);
-                Winner winner = Simulate(newLeaf);
-                Backpropagation(newLeaf, winner);
+                int score = Simulate(newLeaf);
+                Backpropagation(newLeaf, score);
             }
 
             return root;
-        }
-
-        public class MCTSStepResult
-        {
-            public Node Root { get; set; }
-            public Node Leaf { get; set; }
-            public Node NewLeaf { get; set; }
-            public Winner Winner { get; set; }
-        }
-
-        public MCTSStepResult DoStep(MCTSStepResult result, int step)
-        {
-            if (step == 0)
-            {
-                Node leaf = SelectLeafNode(result.Root);
-
-                return new MCTSStepResult()
-                {
-                    Root = result.Root,
-                    Leaf = leaf
-                };
-            }
-            else if (step == 1)
-            {
-                Node newLeaf = ExpandLeafNodeWithMoves(result.Leaf);
-
-                return new MCTSStepResult()
-                {
-                    Root = result.Root,
-                    Leaf = result.Leaf,
-                    NewLeaf = newLeaf
-                };
-            }
-            else if (step == 2)
-            {
-                Winner winner = Simulate(result.NewLeaf);
-
-                return new MCTSStepResult()
-                {
-                    Root = result.Root,
-                    Leaf = result.Leaf,
-                    NewLeaf = result.NewLeaf,
-                    Winner = winner
-                };
-            }
-            else if (step == 3)
-            {
-                Backpropagation(result.NewLeaf, result.Winner);
-
-                return new MCTSStepResult()
-                {
-                    Root = result.Root,
-                    Leaf = result.Leaf,
-                    NewLeaf = result.NewLeaf,
-                    Winner = result.Winner
-                };
-            }
-
-            throw new Exception("Invalid Step");
-
         }
 
         //Select a leaf node which we can simulate
@@ -102,6 +42,7 @@ namespace TTT
             {
                 Node? bestChild = null;
                 double bestUCB = 0.0;
+
                 List<Node> childrenWithMoves = new List<Node>();
 
                 //Select another child based on UCB if it's possible (not NaN(
@@ -112,24 +53,25 @@ namespace TTT
                         continue;
                     }
 
-                    childrenWithMoves.Add(child);
+                    var UTC = EvaluateAndSetUTC(child, root);
 
-                    var UCB = (child.TimesWon / child.Visits) + (1.444 * Math.Sqrt(Math.Log(current.Visits) / child.Visits));
-
-                    if (UCB > bestUCB)
+                    if (UTC > bestUCB)
                     {
                         bestChild = child;
-                        bestUCB = UCB;
+                        bestUCB = UTC;
                     }
+
+                    childrenWithMoves.Add(child);
                 }
 
-                //Cannot determine child based on UCB, select one at random?
                 if (bestChild != null)
                 {
+                    //Decide based on UTC
                     current = bestChild;
                 }
                 else if (bestChild == null && childrenWithMoves.Count > 0)
                 {
+                    //Cannot decide based on UTC, take one at random
                     current = childrenWithMoves[random.Next(childrenWithMoves.Count)];
                 }
                 else
@@ -149,15 +91,13 @@ namespace TTT
 
         public Node ExpandLeafNodeWithMoves(Node leaf)
         {
-            var moves = game.GetPossibleMoves(leaf.State, leaf.Player);
+            var moves = GameMaxBag.GetPossibleMovesFromState(leaf.State);
 
             foreach (var move in moves)
             {
                 Node newLeaf = new Node()
                 {
-                    Player = (leaf.Player == Player.X) ? Player.O : Player.X,
                     State = move,
-                    Depth = leaf.Depth + 1
                 };
 
                 newLeaf.Parent = leaf;
@@ -174,10 +114,9 @@ namespace TTT
             return leaf.Children[random.Next(leaf.Children.Count)];
         }
 
-        public Winner Simulate(Node leaf)
+        public int Simulate(Node leaf)
         {
-            var player = leaf.Player;
-            var moves = game.GetPossibleMoves(leaf.State, leaf.Player);
+            var moves = GameMaxBag.GetPossibleMovesFromState(leaf.State);
             int[] currentMove = leaf.State;
 
             if (moves.Count == 0 && leaf.Parent != null)
@@ -201,39 +140,22 @@ namespace TTT
                     parentChildrenWithPossibleMoves = parent.Children.Any(c => !c.NoFurtherMovesPossible);
                 }
             }
-            while (moves.Count > 0)
+            else
             {
-                //Switch player
-                if (player == Player.O)
+                while (moves.Count > 0)
                 {
-                    player = Player.X;
+                    //Random moves - unless it wins the game for the player, then take that
+                    currentMove = moves[random.Next(moves.Count)];
+                    moves = GameMaxBag.GetPossibleMovesFromState(currentMove);
                 }
-                else
-                {
-                    player = Player.O;
-                }
-
-                //Random moves - unless it wins the game for the player, then take that
-                currentMove = moves[random.Next(moves.Count)];
-
-                foreach (var move in moves)
-                {
-                    if ((int)game.DetermineWinner(move) == (int)player)
-                    {
-                        currentMove = move;
-                        break;
-                    }
-                }
-
-                moves = game.GetPossibleMoves(currentMove, player);
             }
-
-            var winner = game.DetermineWinner(currentMove);
-            return winner;
+           
+            var score = GameMaxBag.GetWinnerForState(currentMove);
+            return score;
         }
 
         //Backpropagate from the leaf
-        public void Backpropagation(Node leaf, Winner winner)
+        public void Backpropagation(Node leaf, int score)
         {
             Node? current = leaf;
 
@@ -241,17 +163,46 @@ namespace TTT
             {
                 current.Visits++;
 
-                if (winner == 0)
+                //Only update score, if it improves - this means that the root will always have the largest score, and a node's score fraction
+                //can be found by Node.Score / Root.Score. E.g. 40 / 70 = 0.57
+                if (score > current.Score)
                 {
-                    current.TimesWon += 0.5;
-                }
-                else if ((int)winner == (int)current.Player)
-                {
-                    current.TimesWon += 1.0;
+                    current.Score = score;
                 }
 
                 current = current.Parent;
             }
+        }
+
+        public double EvaluateAndSetUTC(Node node, Node root)
+        {
+            if (root.Parent != null)
+            {
+                throw new Exception("Fail-safe");
+            }
+
+            double c = 1.444;
+            double w = node.Score;
+            double n = node.Visits;
+            double t;
+
+            if (node.Parent == null)
+            {
+                t = node.Visits;
+            }
+            else
+            {
+                t = node.Parent.Visits;
+            }
+
+            //Two fractions. One is how much the current score match the maximum found (score / root.score), and the other is the exploration. 
+            //As the node is visited, the exploration will go down, and the fraction will mean more, meaning the best way is explored
+            var scoreFraction = node.Score / root.Score;
+            var scoreExploration = c * Math.Sqrt(Math.Log(t) / (n+1));
+
+            //return UTC + modification;
+            //node.UTC = UTC + modification;
+            return scoreFraction + scoreExploration;
         }
     }
 }

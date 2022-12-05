@@ -109,9 +109,9 @@ namespace TestGame
 
             for (var i=0; i < result.Children.Count; i++)
             {
-                if (result.Children[i].TimesSimulated > best)
+                if (result.Children[i].Visits > best)
                 {
-                    best = result.Children[i].TimesSimulated;
+                    best = result.Children[i].Visits;
                     bestIndex = i;
                 }
             }

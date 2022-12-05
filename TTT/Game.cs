@@ -21,7 +21,8 @@ namespace TTT
         {
             X = 1,
             O = 2,
-            Draw = 3
+            Draw = 3,
+            NoWinner = 4
         };
 
         public List<int[]> GetPossibleMoves(int[] state, Player player)
@@ -84,8 +85,7 @@ namespace TTT
             {
                 if (state[i] == 0)
                 {
-                    //Not draw, called on game state that has not ended
-                    throw new Exception("error error");
+                    return Winner.NoWinner;
                 }
             }
 
