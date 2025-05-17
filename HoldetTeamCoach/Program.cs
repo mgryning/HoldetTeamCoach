@@ -177,7 +177,6 @@ static void SetPlayerCountryAsEnum(Player player)
         case "japan": player.TeamEnum = (int)PlayerCountry.JAPAN; break;
         case "iran": player.TeamEnum = (int)PlayerCountry.IRAN; break;
         case "ghana": player.TeamEnum = (int)PlayerCountry.GHANA; break;
-        case "costa rico": player.TeamEnum = (int)PlayerCountry.COSTARICA; break;
         case "canada": player.TeamEnum = (int)PlayerCountry.CANADA; break;
         case "brasilien": player.TeamEnum = (int)PlayerCountry.BRASIL; break;
         case "cameroun": player.TeamEnum = (int)PlayerCountry.CAMEROUN; break;
@@ -192,7 +191,7 @@ static void SetPlayerCountryAsEnum(Player player)
         case "schweiz": player.TeamEnum = (int)PlayerCountry.SWITZERLAND; break;
         case "wales": player.TeamEnum = (int)PlayerCountry.WALES; break;
         case "qatar": player.TeamEnum = (int)PlayerCountry.QATAR; break;
-        case "australien": player.TeamEnum = (int)PlayerCountry.QATAR; break;
+        case "australien": player.TeamEnum = (int)PlayerCountry.AUSTRALIA; break;
         case "tunesien": player.TeamEnum = (int)PlayerCountry.TUNESIA; break;
         case "costa rica": player.TeamEnum = (int)PlayerCountry.COSTARICA; break;
         default: throw new Exception($"invalid country {player.Team}");
