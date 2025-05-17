@@ -1,1 +1,4 @@
-sudo apt-get install -y dotnet-sdk-9.0 
+# Setup instructions
+
+# Install the latest version of dotnet
+sudo bash setup.sh
