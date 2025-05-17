@@ -12,7 +12,6 @@ namespace HoldetTeamCoach
         FRANCE,
         BRASIL,
         DENMARK,
-        CAMERON,
         ARGENTINA,
         USA,
         ITALY,
